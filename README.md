@@ -4,7 +4,7 @@ This is a repository for paper "Hydrogen Evolution and Dynamics in Hydrogel Elec
 This repo contains 
 1. A flexible PCB designed for delivering constant current to the hydrogen producing device.
 2. A user interface software code for wirelessly controlling the flexible PCB.
-3. A code to plot hydrogen diffusion modelling data.
+3. A code to plot hydrogen diffusion simulation data.
 4. A code to analyze the hydrogen evolution video.
 
 # System requirements
@@ -14,7 +14,7 @@ This repo contains
 
 # Instruction
 1. The implement of video analysis code and heat map code is performed on Jupyter notebook. The installment of Jupyter notebook can be found here: https://jupyter.org/install.
-2. The original videos and simulation data is included in corresponding folders for reproduction of the result.
+2. The original videos and simulation data are included in corresponding folders for reproduction of the result.
 3. The implement of Bluetooth user interface is performed on Spyder (https://www.spyder-ide.org/) with python 3.13. The running of the user interface codes requires the flexible PCB to be turned on.
-4. The expected run tiume for demo with provided data on a "normal" desktop computer would be below 1 min.
+4. The expected run time for demo with provided data on a "normal" desktop computer would be below 1 min.
 5. The expected output for video and simulation data analysis is also included in corresponding folders for reference. 
